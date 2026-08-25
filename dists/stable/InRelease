@@ -1,0 +1,43 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Architectures: amd64
+Codename: stable
+Components: main
+Date: Tue, 25 Aug 2026 22:21:37 +0000
+Description: Parallax Launcher releases
+Label: Parallax Launcher
+Origin: Parallax Launcher
+Suite: stable
+MD5Sum:
+ d4fe0316944261eec945bff00766872b              198 Release
+ 1d9c8ba086f2b21217cedb5381fd985d              945 main/binary-amd64/Packages
+ 824e58fb659fe6bcf354dbabe9fd854f              638 main/binary-amd64/Packages.gz
+SHA1:
+ 98b227fd0a11fda9a3961b1fcbb9340c554475c4              198 Release
+ 4943f5cc0d4809975c5464945ee298831d4672a5              945 main/binary-amd64/Packages
+ 1a45ea715d5ad51ec7c77a6a000db76499d443a7              638 main/binary-amd64/Packages.gz
+SHA256:
+ b44a462649393748c54b3009faa89f8648998989068bd2286eff8415867aad69              198 Release
+ 336d05785b91917cc15a6bc288bd9d2af370d9e92dc1af58da2361b41a389b2f              945 main/binary-amd64/Packages
+ 47b29501322dc1bea71f14df2900f45ff7af973b1ab885dcae143a3e2c5b68f2              638 main/binary-amd64/Packages.gz
+SHA512:
+ cf9e5d1691b9189b035e52ea5997f7b50b703fb9d1783aa9d987e3735969e1f67acaf887e338d7ea104edffcad3c96e821b3b9717d791aeb2767e564dc457050              198 Release
+ 2fad1e24a2b5a4545d26cf39c18d37dfbf3707449cc79dc775fc9de5ef1c97bd1120702dbe5d3fd6c3dbe9164007227066311350b88fc540eab33ddc97ff4ca1              945 main/binary-amd64/Packages
+ 8cbb2d08406a752e66c18bc30b5adbb533e7901abaff64f7eb90c6f723ca6624e3b4a907c1a4dc591aeb7c940596d2013d1aea1e4b19e03812d8de3a7ffa2ccb              638 main/binary-amd64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEJBZlqXVoTOvoZt6bcgpulR9WgZwFAmqOFXIACgkQcgpulR9W
+gZxC+Q/9E9GN7VykKocLBTjyX1mfbKotgGK8JIMnlV2LgEXyAKRi9d84Z+FlNrU6
+ejGZmrLfPOocLInq7c+LDmhO43a9u8kXhBqwAABmd88NVCYxcKx8WhPXmOCgcZXQ
+PQf7cfil/plBC13pazd6Ei3tDURQ1eOzwcZ0NiBhwsd2S2ATzZ60wm/xN150DYpf
+Dt99VGwKO2ig3rnTuyKsjp60GrI1DnsOuohx8RrisHUFa7dZntp2XcJWCgHw84FM
+9nqsg049vIZlbUXKiG6ep2wjJlpq+9m/JeV2kCWrbgTfyBy6l1eQwv1fKBOP8vUv
+9xffc44fdQBDPHE03UBPAnOwXEbzcrAv85tTMbZYuxKj/bii2jYlPnBw33EJiXWl
+riUdsqeN4vhwsbKs8uxtK1Z9K0LGUtLD+M+MN2EqT/dQTZlC1xvoEyWhuTb3nW5W
+8/+wy3TvKnn/2MJCRjNqZcWxJyqVx4Rt4foA0L/Tmx/JZHqE/bUBjSRz1y6Z4oqu
+dBERvRs1HCd7XU0yZp6/CniBENse1K7sUwNfc8enaTVPGJZzzJPWSUS5NadIO4+A
+IzpUv2qQC1js3dZo2/iPA3otWAyiF8Ea40gqOrwchjbJKIQfl+8sxQHJLEGrRm+H
+OQEcoXvak65ecudi+HXfHuJPShfmKUsF+EhvBA07Q6HLWxg3mSU=
+=mAWx
+-----END PGP SIGNATURE-----

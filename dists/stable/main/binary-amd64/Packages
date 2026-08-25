@@ -1,0 +1,21 @@
+Package: parallax-launcher
+Architecture: amd64
+Version: 3.7.0
+Priority: optional
+Section: default
+Maintainer: Arda Yalın Özkan
+Installed-Size: 323388
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
+Recommends: libappindicator3-1
+Filename: pool/main/p/parallax-launcher/parallax-launcher_3.7.0_amd64.deb
+Size: 89045396
+MD5sum: 2745f9ae224ab0b2ced9e43939ad8395
+SHA1: d79b1fc39c390a14cc407a9dee1db125d73ad69b
+SHA256: 60617bb2f9cd0d5eeff2caaa2860306cb694444644ea1e10f266e2752cce1b6d
+SHA512: 5e4889ff2a1c65bb6070696e684d31b20c368444cdad7b8c282c7396a8cdf684bda5a64700f1dc88e6cf74050c0604b53ab62c31e68f6bf68ac38c8c611965a6
+Homepage: https://parallaxlauncher.com
+Description: Game library manager
+  One shelf for every game you own, kept on your own machine. Finds your installed Steam games, fills in the artwork, and launches them.
+License: GPL-3.0-or-later
+Vendor: Arda Yalın Özkan
+
